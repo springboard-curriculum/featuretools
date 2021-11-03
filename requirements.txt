@@ -3,3 +3,5 @@ featuretools==0.4.0
 dask==0.19.4
 distributed==1.23.3
 tornado==5.0.0
+matplotlib==3.4.3
+seaborn==0.11.2
